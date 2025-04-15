@@ -1,4 +1,4 @@
-#№ Excursium Test Project
+## Excursium Test Project
 
 Данный проект предназначен для автоматизированного функционального тестирования сайта [excursium.com](https://excursium.com) с использованием **Python**, **Selenium**, **Pytest** и **Page Object Model (POM)**.
 
